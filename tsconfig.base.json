@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    //"module": "system",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "watch": true,
+    //"outFile": "./js/app.js",
+    "outDir": "js",
+    "strictNullChecks": true
+    //"strict": false
+  }
+}
